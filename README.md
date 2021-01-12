@@ -1,5 +1,8 @@
 <h1>Содержание<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Прогнозирование-прибыли-от-нефтяной-скважины" data-toc-modified-id="Прогнозирование-прибыли-от-нефтяной-скважины-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Прогнозирование прибыли от нефтяной скважины</a></span><ul class="toc-item"><li><span><a href="#Описание-проекта" data-toc-modified-id="Описание-проекта-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание проекта</a></span></li><li><span><a href="#Условия-задачи:" data-toc-modified-id="Условия-задачи:-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Условия задачи:</a></span></li><li><span><a href="#Вывод" data-toc-modified-id="Вывод-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Вывод</a></span></li></ul></li></ul></div>
+<div class="toc"><ul class="toc-item"><li><span><a href="#Прогнозирование-прибыли-от-нефтяной-скважины" data-toc-modified-id="Прогнозирование-прибыли-от-нефтяной-скважины-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Прогнозирование прибыли от нефтяной скважины</a></span><ul class="toc-item"><li><span><a href="#Описание-проекта" data-toc-modified-id="Описание-проекта-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание проекта</a></span></li><li><span><a href="#Условия-задачи" data-toc-modified-id="Условия-задачи-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Условия задачи</a></span></li><li><span><a href="#Вывод" data-toc-modified-id="Вывод-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Вывод</a></span></li></ul></li></ul></div>
+
+
+
 
 
 
@@ -15,7 +18,7 @@
 
 
 
-## Условия задачи:
+## Условия задачи
 - Для обучения модели подходит только линейная регрессия (остальные — недостаточно предсказуемые).
 - При разведке региона исследуют 500 точек, из которых с помощью машинного обучения выбирают 200 лучших для разработки.
 - Бюджет на разработку скважин в регионе — 10 млрд рублей.
